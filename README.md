@@ -43,9 +43,9 @@ My first repository
 | A series about the remaining civilization of humanity protected by giant walls against their predators, the titans. A story about the mysteries, the history, and war of the humanity with titans unfolds. |
 ---
 
-- Favorite Series/Movies list by Crisinciano H. Peralta
-
-- Section: BSIT - 3
+**- Favorite Series/Movies list by Crisinciano H. Peralta**
+**BSIT - 3**
+**[STI College](elms.sti.edu.ph/)**
 
 
 
